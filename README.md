@@ -9,7 +9,7 @@ Focused on applied ML, statistical modeling, and production-ready analytical wor
 ---
 
 ## 🛠 Tech Stack  
-**Python • SQL • Scikit-learn • Pandas • NumPy • Matplotlib • Machine Learning • Statistical Analysis**
+**Python • SQL • Scikit-learn • Pandas • NumPy • Matplotlib • Power BI • Machine Learning • Statistical Analysis**
 
 ---
 
