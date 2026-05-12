@@ -29,7 +29,10 @@ End-to-end ML workflow including EDA, preprocessing, regression, classification,
 ### Food Delivery Delay Analysis  
 Statistical analysis and predictive modeling to identify delivery time patterns and key influencing factors.
 
-👉 Explore detailed implementations in the pinned repositories below.
+### She & Soul  
+🔗 https://www.sheandsoul.co.in/  
+Designed and developed a complete production-ready website from scratch, handling frontend architecture, backend integration, and deployment.
+
 
 ---
 
