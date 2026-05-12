@@ -21,17 +21,18 @@ Matplotlib • Power BI
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects
 
-### Machine Learning Pipeline – SML2010 Dataset  
-End-to-end ML workflow including EDA, preprocessing, regression, classification, clustering, and model comparison.
+### Machine Learning Pipeline — SML2010 Dataset
+Developed a complete end-to-end ML workflow including data preprocessing, exploratory analysis, regression, classification, clustering, and structured model comparison.
 
-### Food Delivery Delay Analysis  
-Statistical analysis and predictive modeling to identify delivery time patterns and key influencing factors.
+### Food Delivery Delay Analysis
+Conducted statistical analysis and built predictive models to identify delivery time patterns and key influencing factors.
 
-### She & Soul  
-🔗 https://www.sheandsoul.co.in/  
-Designed and developed a complete production-ready website from scratch, handling frontend architecture, backend integration, and deployment.
+### She & Soul — Production Website
+[Live Website](https://www.sheandsoul.co.in/)
+
+Designed and developed a full production-ready website from scratch, managing frontend architecture, backend integration, and deployment.
 
 
 ---
